@@ -49,9 +49,17 @@
     "uniqCompNum": 32,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
-    "favicon": "",
+    "favicon": false,
     "noImageResize": "",
-    "imageResize": true
+    "imageResize": true,
+    "google-analytics": "<!-- Global site tag (gtag.js) - Google Analytics -->\n<script async src=\"https://www.googletagmanager.com/gtag/js?id=UA-517456-2\"></script>\n<script>\n  window.dataLayer = window.dataLayer || [];\n  function gtag(){dataLayer.push(arguments);}\n  gtag('js', new Date());\n\n  gtag('config', 'UA-517456-2');\n</script>\n",
+    "robotsSwitcher": false,
+    "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
+    "sitemapSwitcher": true,
+    "siteUrl": "http://dehertjes.nl",
+    "sitemapSwitcherAuto": "on",
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
